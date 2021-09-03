@@ -6,3 +6,4 @@
 - Day 4 - 1 solution on codewars([Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 - Day 5 - 1 solution on codewars([Calculating with Functions
 ](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/solutions/javascript)
+- Day 6 - 1 half of solution on codewars([Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/javascript)
