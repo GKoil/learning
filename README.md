@@ -7,3 +7,6 @@
 - Day 5 - 1 solution on codewars([Calculating with Functions
 ](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/solutions/javascript)
 - Day 6 - 1 half of solution on codewars([Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/javascript)
+- Day 7 - rest day
+- Day 8 - rest day
+- Day 9 - 1 half of solution on codewars([Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/javascript)
